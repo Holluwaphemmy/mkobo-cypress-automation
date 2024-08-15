@@ -1,0 +1,16 @@
+{
+  "email_field": "input[placeholder='Email Address']",
+  "valid_email": "payrollprocessors@yopmail.com",
+  "invalid_email": "payrollprocessors@yopmailcom",
+  "password_field": "input[placeholder='*********']",
+  "valid_password": "Mkobo@123",
+  "invalid_password": "Mkobo@12345",
+  "login_button": ".flex.gap-2.items-center.justify-center",
+  "dashboard_heading": ".text-2xl.font-semibold.text-black.text-left",
+  "login_error": ".ant-notification-notice-message",
+  "logout_svg_icon": "div[class='ant-space-item'] svg",
+  "logout_button": "span[class='ant-dropdown-menu-title-content'] button",
+  "error_card": ".ant-notification-notice-description",
+  "password_error_message": "Incorrect password",
+  "email_error_message": "An error occurred while logging in. Please try again."
+}
